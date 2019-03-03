@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tokyo Furnished Rentals</title>
+    <description>Trendy furnished homes in Tokyo&#39;s most exciting neighborhoods.
+</description>
+    <link>https://tokyofurnished.rentals/</link>
+    <atom:link href="https://tokyofurnished.rentals/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Mar 2019 02:05:13 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Mar 2019 02:05:13 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>Lorem Ipsum</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://google.com&quot;&gt;link example&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;p&gt;Numbered list&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lorem ipsum:&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+ lorem ipsum
+&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Lorem ipsum&lt;/li&gt;
+  &lt;li&gt;Lorem ipsum&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;title-1&quot;&gt;Title&lt;/h2&gt;
+
+&lt;h3 id=&quot;subtitle&quot;&gt;Subtitle&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;h3 id=&quot;subtitle-1&quot;&gt;Subtitle&lt;/h3&gt;
+
+&lt;p&gt;Codeblock:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Lorem ipsum
+
+  Problem 1
+    - Lorem ipsum
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+        <link>https://tokyofurnished.rentals/2018/03/25/lorem-ipsum.html</link>
+        <guid isPermaLink="true">https://tokyofurnished.rentals/2018/03/25/lorem-ipsum.html</guid>
+        
+        <category>some-tag</category>
+        
+        <category>anothertag</category>
+        
+        <category>tag</category>
+        
+        <category>drupal</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lorem Ipsum</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;inline text &lt;a href=&quot;https://google.com&quot;&gt;Link example&lt;/a&gt; inline text&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum &lt;strong&gt;bold&lt;/strong&gt; and &lt;strong&gt;bold&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Block quote&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum &lt;img class=&quot;emoji&quot; title=&quot;:wink:&quot; alt=&quot;:wink:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f609.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;title-1&quot;&gt;Title&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tokyofurnished.rentals/assets/img/blog/960x301.jpg&quot; alt=&quot;stock market image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum&lt;/p&gt;
+
+&lt;h3 id=&quot;subtitle&quot;&gt;Subtitle&lt;/h3&gt;
+
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;tl&quot; dir=&quot;ltr&quot;&gt;Tokyo 4483 &lt;a href=&quot;https://twitter.com/hashtag/window?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#window&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/%E7%AA%97?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#窗&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/%E7%AA%93?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#窓&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/transport?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#transport&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/transportation?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#transportation&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/subway?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#subway&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/metro?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#metro&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/%E5%9C%B0%E9%93%81?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#地铁&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/%E5%9C%B0%E4%B8%8B%E9%89%84?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#地下鉄&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/transit?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#transit&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/publictransit?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#publictransit&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/%E5%A4%A7%E9%87%8F%E8%BC%B8%E9%80%81?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#大量輸送&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/%E8%BF%90%E8%BE%93?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#运输&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/train?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#train&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/%E9%9B%BB%E8%BB%8A?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#電車&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/railway?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#railway&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/night?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#night&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/%E5%A4%9C?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#夜&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/%E5%A4%9C%E6%99%9A?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#夜晚&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/dark?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#dark&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/nuit?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#nuit&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/conductor?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#conductor&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/tokyo?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#tokyo&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/%E6%9D%B1%E4%BA%AC?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#東京&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/%E6%97%A5%E6%9C%AC?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#日本&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/tokyoform?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#tokyoform&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/japan?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#japan&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/chrisjongkind?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#chrisjongkind&lt;/a&gt; &lt;a href=&quot;https://t.co/EJpi4V7GeQ&quot;&gt;https://t.co/EJpi4V7GeQ&lt;/a&gt;&lt;/p&gt;&amp;mdash; tokyoform (@tokyoform) &lt;a href=&quot;https://twitter.com/tokyoform/status/1073687416911863808?ref_src=twsrc%5Etfw&quot;&gt;December 14, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;subtitle-1&quot;&gt;Subtitle&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tokyofurnished.rentals/assets/img/blog/2880x1212.jpg&quot; alt=&quot;drupal stats d8&quot; /&gt;
+  &lt;span class=&quot;caption&quot;&gt; A graph started by &lt;a href=&quot;https://google.com&quot;&gt;Link&lt;/a&gt; that I updated to present. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+        <link>https://tokyofurnished.rentals/2017/10/27/lorem-ipsum.html</link>
+        <guid isPermaLink="true">https://tokyofurnished.rentals/2017/10/27/lorem-ipsum.html</guid>
+        
+        <category>some-tag</category>
+        
+        <category>anothertag</category>
+        
+        <category>drupal8</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
